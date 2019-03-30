@@ -25,11 +25,11 @@ Finally, extract `tudfonts-tex_*.zip` and make sure that the `texmf` folder is m
 ## 4. Move texmf
 Now, we need to move the texmf folder to the correct location so it can be found by LaTeX.
 Open a terminal in the `tudesign-tmp` folder. 
-Run the following commands to copy the texmf folder to the correct location:
+Run the following command to copy the texmf folder to the correct location:
 ```
 sudo cp -r texmf/* /var/lib/texmf/
 ```
-This is installing the design system-wide.
+This is installing the design system-wide. That is why `sudo` is needed.
 
 ## 5. Include fonts
 Run the following commands to register the font mappings in LaTeX:
