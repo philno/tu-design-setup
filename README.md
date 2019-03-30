@@ -5,7 +5,7 @@ How to set up the LaTeX design of TU Darmstadt on Ubuntu or other related Linux 
 You first need a LaTeX distribution installed on your system. I recommend `TeXLive`: 
 Open a terminal and run 
 ```
-sudo apt install texlive texlive-extra-fonts
+sudo apt install texlive texlive-lang-german texlive-extra-fonts
 ``` 
 to install TeXLive and extra fonts for math symbols.
 
