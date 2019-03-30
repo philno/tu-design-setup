@@ -51,4 +51,7 @@ Map	5sf.map	enabled	/etc/texmf/web2c/updmap.cfg
 ```
 
 ## 6. Profit
-You should now be able to compile `.tex` files with the tudesign and tu fonts.
+Congratulations! You should now be able to compile `.tex` files with the tudesign and tu fonts.
+
+Special thanks to Clemens v. Loewenich, Johannes Werner und Jannik Vieten for their tutorial on the FKP page. 
+This guide is based on their work with some adjustments where necessary. 
