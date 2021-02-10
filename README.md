@@ -1,4 +1,8 @@
 # tu-design-setup
+
+In 2020, TU Darmstadt has released their own ShareLaTeX instance (similar to overleaf). I recommend to just use the [online editor](https://sharelatex01.ca.hrz.tu-darmstadt.de) because it has all the TU designs preinstalled.
+
+The rest of this guide is now outdated.
 How to set up the LaTeX design of TU Darmstadt on Ubuntu or other related Linux distros:
 
 ## 0. Requirements
